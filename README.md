@@ -7,7 +7,7 @@ QUADCOPTER
 
 4x Motors + 4x Servos, LED Strip, SDCard Blackbox, Voltage Sensor, Beeper, Telemetry.
 
-![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev2-QUADa.png?dl=0)
+  ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev2-QUADa.png?dl=0)
 
 PLANE/VTAIL
 
@@ -15,7 +15,7 @@ PLANE/VTAIL
 
 1x Motor + 7x Servos, LED Strip, SDCard Blackbox, Voltage Sensor, Beeper, Telemetry.
 
-![My Remote Image](https://github.com/EonClaw/STM32F411-Blackpill-INAV-FixedWing/blob/main/blackpill-fc-pinout-LARGE-rev3-FixedWing.png?dl=0)
+  ![My Remote Image](https://github.com/EonClaw/STM32F411-Blackpill-INAV-FixedWing/blob/main/blackpill-fc-pinout-LARGE-rev3-FixedWing.png?dl=0)
 
 (NOTE!!!) MPU6050 (Use INAV-5.1.0 with headers facing front) - Click "Keep Current Settings" after flashing otherwise it will not boot. Modify "Mixers" to QUADX or Plane then "Outputs" to Enable Motors and Servo Output.
 

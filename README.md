@@ -7,7 +7,7 @@ QUADCOPTER
 
 4x Motors + 4x Servos, LED Strip, SDCard Blackbox, Voltage Sensor, Beeper, Telemetry.
 
-![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev2-QUADa.png?dl=0)
+    ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev2-QUADa.png?dl=0)
 
 PLANE/VTAIL
 
